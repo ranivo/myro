@@ -1,0 +1,13 @@
+h1 {
+    color: bisque;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+    color: rgb(228, 143, 15);
+    font: 1em sans-serif;
+}
+
+img {
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+}
